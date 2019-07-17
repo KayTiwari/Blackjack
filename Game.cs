@@ -59,11 +59,26 @@ namespace blackjack
              dealercardvalue += card.Rank;
             card.PrintCardToScreen();
             DealerValue = dealercardvalue;
+            if (DealerValue > 21 && card.Rank == 11){
+
+            }
          }
          System.Console.WriteLine($"Points: {DealerValue}");
 
          if (YourValue > 21 || DealerValue > 21)
          {
+             foreach(Card card in YourHand){
+                 if (YourValue > 21 && card.Rank == 11){
+                YourValue = cardvalue - 10;
+                HandCheck(count);
+                }
+                }
+             foreach(Card card in DealerHand){
+                 if (DealerValue > 21 && card.Rank == 11){
+                DealerValue = cardvalue - 10;
+                HandCheck(count);
+                }
+             }
              if (YourValue > 21 && DealerValue > 21)
              {
                  GameLose();
