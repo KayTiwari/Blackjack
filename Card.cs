@@ -8,10 +8,10 @@ namespace blackjack
         Unknown = 0,
         //Unknown Card suit
 
-        Heart = 1,
-        Club = 2,
-        Spade = 3,
-        Diamond = 4
+        Hearts = 1,
+        Clubs = 2,
+        Spades = 3,
+        Diamonds = 4
     }
 
     /// Contains information about a playing card. ///
@@ -39,13 +39,13 @@ namespace blackjack
         {
             get
             {
-                return this.Suit == CardSuit.Heart || this.Suit == CardSuit.Diamond;
+                return this.Suit == CardSuit.Hearts || this.Suit == CardSuit.Diamonds;
             }
         }
 
         public void PrintCardToScreen()
         {
-            Console.WriteLine($"Suit: {this.Suit}, Rank: {this.Rank}");
+            Console.WriteLine($"{this.Rank} of {this.Suit}");
         }
     }
 }
