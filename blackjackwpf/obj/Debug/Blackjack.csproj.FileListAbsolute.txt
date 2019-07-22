@@ -1,0 +1,15 @@
+C:\Users\abhit\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\abhit\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\abhit\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\MainWindow.g.cs
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\App.g.cs
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack_MarkupCompile.cache
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack_MarkupCompile.lref
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\MainWindow.baml
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.g.resources
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\abhit\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
